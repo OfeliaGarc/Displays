@@ -1,0 +1,14 @@
+div {
+height: 200px;
+width: 250px;
+font-size: 15px; 
+}
+.ama {
+padding-left:30px;
+}
+.roj {
+	padding-top: 30px;
+}
+.ama {
+text-transform: uppercase;
+}/* Escribe tu css aqui */

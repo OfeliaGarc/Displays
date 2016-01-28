@@ -1,0 +1,15 @@
+div {
+		height: 100px;
+		width: 550px;
+		font-size: 35px; 
+		}
+		.yellow {
+		background-color: yellow;
+		}
+		.roj {
+			background-color: red;
+		}
+		.ama{
+		background-color: yellow;
+		text-transform: uppercase;
+		}
