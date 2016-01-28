@@ -1,7 +1,9 @@
 div {
-		height: 100px;
-		width: 550px;
-		font-size: 35px; 
+		height: 150px;
+		width: 360px;
+		font-size: 35px;
+		margin: 10px; 
+		display: inline-block;
 		}
 		.yellow {
 		background-color: yellow;
